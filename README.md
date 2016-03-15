@@ -8,4 +8,4 @@
 
 ## Instructions
 
-Using the directive in this repo, add event listeners to change the text when the user clicks. Remember to use `require` and `$apply()`!
+Using the directive in this repo, add event listeners to change the text when the user clicks. Change it to "Thank you for clicking!". Remember to use `require` and `$apply()`!
