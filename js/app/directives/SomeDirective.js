@@ -16,7 +16,7 @@ function SomeDirective() {
 
 			var span = el.querySelector('span');
 			el.addEventListener('click', function () {
-				span.textContent = 'Thank you for clicking!';
+				ctrl.text = 'Thank you for clicking!';
 				scope.$apply();
 			});
 		}
